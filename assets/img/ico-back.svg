@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="40px" viewBox="0 0 22 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>ico-back</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2-Création-d’un-compte" transform="translate(-190.000000, -1000.000000)" fill-rule="nonzero" fill="#FFFFFF">
+            <g id="footer" transform="translate(0.000000, 980.000000)">
+                <g id="prev" transform="translate(161.000000, 0.000000)">
+                    <g id="ico-back" transform="translate(29.000000, 20.000000)">
+                        <path d="M0.583989539,21.4276104 L18.5523933,39.4095224 C19.3408349,40.1968259 20.6182363,40.1968259 21.4086688,39.4095224 C22.1971104,38.6222189 22.1971104,37.3434321 21.4086688,36.5561286 L4.86549927,20.0009966 L21.4066778,3.44586458 C22.1951194,2.65856109 22.1951194,1.37977427 21.4066778,0.590477614 C20.6182363,-0.196825871 19.3388438,-0.196825871 18.5504023,0.590477614 L0.581998525,18.5722235 C-0.194331025,19.3513882 -0.194331025,20.6502728 0.583989539,21.4276104 Z" id="Chevron_Right"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
